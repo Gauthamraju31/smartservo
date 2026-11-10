@@ -1,0 +1,35 @@
+# PlatformIO
+.pio
+.pioenvs
+.piolibdeps
+
+# Build Artifacts
+*.elf
+*.bin
+*.hex
+*.o
+*.obj
+*.d
+*.map
+*.lst
+
+# IDE & Editor files
+.vscode/*
+!.vscode/settings.json
+.idea/
+*.sublime-project
+*.sublime-workspace
+*.swp
+*~
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.venv
+venv/
+ENV/
+
+# OS specific
+.DS_Store
+Thumbs.db
